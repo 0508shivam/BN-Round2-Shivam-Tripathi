@@ -30,16 +30,20 @@ salary -> varchar(255)
 profession -> varchar(255)
 
 **Page Wise Description:-**
+
 **1. Registration Page:-** 
 ![register_img](https://user-images.githubusercontent.com/76531352/120431817-a115c000-c396-11eb-83ac-766419b99d95.png)
 
 **2. Login Page:-**
+
 ![login_img](https://user-images.githubusercontent.com/76531352/120432069-ffdb3980-c396-11eb-8aa2-548a31e4db94.png)
 
 **3. Index Page Before:-** 
+
 ![index_img](https://user-images.githubusercontent.com/76531352/120432115-14b7cd00-c397-11eb-9780-a3a3031e97fb.png)
 
 **4. Index Page After:-** 
+
 ![index_img2](https://user-images.githubusercontent.com/76531352/120432175-2c8f5100-c397-11eb-9234-0f908be18788.png)
 
 ***********************************************Ends Here
