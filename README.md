@@ -2,20 +2,26 @@
 **Aim/ Objective:-**
 The aim of developing to provide user a login/register portal to access the data of the various managements of a company like HR, sales, managers etc. This project has wide range of scope and application. It simply sorts the data as per the management chosen by the session user. This consists of login form upon which user is redirected to index page and from there he can filter the data without page being refreshed.
 
+<hr>
+
 **Technologies used:-**
 This Project uses HTML/CSS, Javascript, JQuery/AJAX, Bootstrap 4, PHP and Mysql.
+
+<hr>
 
 **Requirements:-**
 1.XAMPP localhost server with phpmyadmin.
 2.Working Internet Connection.
 
-**Database Configuration**
+<hr>
+
+**Database Configuration:-**
 hostname = localhost,
 username = root,
 password = *blank*,
 database name = builderneed
 
-**Tables**
+**Tables:-**
 1. -> Login (id,username,password)
 2. -> HR(id,name,salary,profession)
 3. -> Manager(id,name,salary,profession)
