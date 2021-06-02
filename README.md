@@ -1,6 +1,6 @@
 # BN-Round2-Shivam-Tripathi
 **Aim/ Objective:-**
-The aim of developing to provide user a login/register portal to access the data of the various managements of a company like HR, sales, managers etc. This project has wide range of scope and application. It simply sorts the data as per the management chosen by the session user. This consists of login form upon which user is redirected to index page and from there he can filter the data without page being refreshed.
+The aim of developing this project is to provide user a login/register portal to access the data of the various managements of a company like HR, sales, managers etc. This project has wide range of scope and application. It simply sorts the data as per the management chosen by the session user. This consists of login form upon which user is redirected to index page and from there he can filter the data without page being refreshed.
 
 <hr>
 
