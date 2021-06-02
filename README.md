@@ -25,12 +25,12 @@ database name = builderneed
 
 
 **_Field Details:-_**
-Id -> int(11) primary auto_increment
-username -> varchar(255)
-password -> varchar(255)
-name -> varchar(255)
-salary -> varchar(255)
-profession -> varchar(255)
+1. Id -> int(11) primary auto_increment
+2. username -> varchar(255)
+3. password -> varchar(255)
+4. name -> varchar(255)
+5. salary -> varchar(255)
+6. profession -> varchar(255)
 
 1. Login Table:- ![db_img2](https://user-images.githubusercontent.com/76531352/120433118-7b89b600-c398-11eb-9d1e-231f4d318f6f.png)
 2. HR Table:- ![db_img3](https://user-images.githubusercontent.com/76531352/120433227-9b20de80-c398-11eb-8d71-79f93d49f566.png)
