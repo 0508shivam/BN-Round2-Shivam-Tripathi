@@ -10,8 +10,8 @@ This Project uses HTML/CSS, Javascript, JQuery/AJAX, Bootstrap 4, PHP and Mysql.
 <hr>
 
 **Requirements:-**
-1.XAMPP localhost server with phpmyadmin.
-2.Working Internet Connection.
+1. XAMPP localhost server with phpmyadmin.
+2. Working Internet Connection.
 
 <hr>
 
