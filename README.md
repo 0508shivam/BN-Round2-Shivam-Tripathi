@@ -21,6 +21,9 @@ database name = builderneed
 -> Manager(id,name,salary,profession)
 -> Sales(id,name,salary,profession)
 
+![db_img1](https://user-images.githubusercontent.com/76531352/120432970-509f6200-c398-11eb-8c7e-ff932808e160.png)
+
+
 _Field Details:-_
 Id -> int(11) primary auto_increment
 username -> varchar(255)
