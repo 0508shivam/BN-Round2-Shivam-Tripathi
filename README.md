@@ -48,5 +48,5 @@ profession -> varchar(255)
 ![index_img2](https://user-images.githubusercontent.com/76531352/120432175-2c8f5100-c397-11eb-9234-0f908be18788.png)
 
                                                                           
-                                                                          **Ends Here**
+                                                         **Ends Here**
 
