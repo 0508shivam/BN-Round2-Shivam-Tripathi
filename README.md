@@ -6,13 +6,13 @@ The aim of developing to provide user a login/register portal to access the data
 This Project uses HTML/CSS, Javascript, JQuery/AJAX, Bootstrap 4, PHP and Mysql.
 
 **Requirements:-**
-XAMPP localhost server with phpmyadmin.
-Working Internet Connection.
+1.XAMPP localhost server with phpmyadmin.
+2.Working Internet Connection.
 
 **Database Configuration**
-hostname = localhost
-username = root
-password = *blank*
+hostname = localhost,
+username = root,
+password = *blank*,
 database name = builderneed
 
 **Tables**
