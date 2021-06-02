@@ -24,13 +24,18 @@ database name = builderneed
 ![db_img1](https://user-images.githubusercontent.com/76531352/120432970-509f6200-c398-11eb-8c7e-ff932808e160.png)
 
 
-_Field Details:-_
+**_Field Details:-_**
 Id -> int(11) primary auto_increment
 username -> varchar(255)
 password -> varchar(255)
 name -> varchar(255)
 salary -> varchar(255)
 profession -> varchar(255)
+
+1. Login Table:- ![db_img2](https://user-images.githubusercontent.com/76531352/120433118-7b89b600-c398-11eb-9d1e-231f4d318f6f.png)
+2. HR Table:- ![db_img3](https://user-images.githubusercontent.com/76531352/120433227-9b20de80-c398-11eb-8d71-79f93d49f566.png)
+3. Sales Table:- ![db_img4](https://user-images.githubusercontent.com/76531352/120433288-ab38be00-c398-11eb-8592-4842098f15a7.png)
+4. Manager Table:- ![db_img5](https://user-images.githubusercontent.com/76531352/120433355-bee42480-c398-11eb-9002-348ccbb30e5b.png)
 
 **Page Wise Description:-**
 
