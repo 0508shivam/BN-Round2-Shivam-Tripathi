@@ -32,6 +32,7 @@ profession -> varchar(255)
 **Page Wise Description:-**
 
 **1. Registration Page:-** 
+
 ![register_img](https://user-images.githubusercontent.com/76531352/120431817-a115c000-c396-11eb-83ac-766419b99d95.png)
 
 **2. Login Page:-**
@@ -46,5 +47,6 @@ profession -> varchar(255)
 
 ![index_img2](https://user-images.githubusercontent.com/76531352/120432175-2c8f5100-c397-11eb-9234-0f908be18788.png)
 
-***********************************************Ends Here
+                                                                          
+                                                                          **Ends Here**
 
