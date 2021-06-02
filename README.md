@@ -50,6 +50,8 @@ database name = builderneed
 
 ![db_img5](https://user-images.githubusercontent.com/76531352/120433355-bee42480-c398-11eb-9002-348ccbb30e5b.png)
 
+<hr>
+
 **Page Wise Description:-**
 
 **1. Registration Page:-** 
